@@ -1,0 +1,12 @@
+2006-06-21 22:02  dave
+
+	* .cvsignore (1.1), Build.PL (1.1), MANIFEST (1.1), META.yml (1.1),
+	  Makefile.PL (1.1), README (1.1), lib/Template/Plugin/RPM2.pm
+	  (1.1), t/00-load.t (1.1), t/pod-coverage.t (1.1), t/pod.t (1.1),
+	  t/test.rpm (1.1), t/test.t (1.1): Initial revision
+	* .cvsignore (1.1.1.1), Build.PL (1.1.1.1), MANIFEST (1.1.1.1),
+	  META.yml (1.1.1.1), Makefile.PL (1.1.1.1), README (1.1.1.1),
+	  lib/Template/Plugin/RPM2.pm (1.1.1.1), t/00-load.t (1.1.1.1),
+	  t/pod-coverage.t (1.1.1.1), t/pod.t (1.1.1.1), t/test.rpm
+	  (1.1.1.1), t/test.t (1.1.1.1): TT Plugin to access RPM data
+
