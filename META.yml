@@ -1,8 +1,8 @@
 ---
 name: Template-Plugin-RPM2
-version: 1.01
+version: 1.02
 author:
-  - Dave Cross <dave@mag-sol.com>
+  - 'Dave Cross <dave@mag-sol.com>'
 abstract: Template Toolkit plugin for RPM2
 license: perl
 resources:
@@ -14,8 +14,8 @@ requires:
 provides:
   Template::Plugin::RPM2:
     file: lib/Template/Plugin/RPM2.pm
-    version: 1.01
-generated_by: Module::Build version 0.2801
+    version: 1.02
+generated_by: Module::Build version 0.32
 meta-spec:
   url: http://module-build.sourceforge.net/META-spec-v1.2.html
   version: 1.2

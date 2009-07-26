@@ -21,7 +21,7 @@ Version 0.01
 
 =cut
 
-our $VERSION = sprintf "%d.%02d", '$Revision: 1.1.1.1 $ ' =~ /(\d+)\.(\d+)/;
+our $VERSION = '1.02';
 
 =head1 SYNOPSIS
 
@@ -80,7 +80,7 @@ your bug as I make changes.
 
 =head1 COPYRIGHT & LICENSE
 
-Copyright 2006 Dave Cross, all rights reserved.
+Copyright (c) 2006-9 Magnum Solutions Ltd., all rights reserved.
 
 This program is free software; you can redistribute it and/or modify it
 under the same terms as Perl itself.
